@@ -1,0 +1,13 @@
+[
+    {
+        "activityLevel": "Lightly Active",
+        "age": 37,
+        "email": "sam@gmail.com",
+        "gender": "F",
+        "height": 160.0,
+        "name": "Samantha",
+        "password": "1212",
+        "userId": 1,
+        "weight": 55.0
+    }
+]

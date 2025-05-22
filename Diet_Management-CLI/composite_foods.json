@@ -1,0 +1,35 @@
+[
+    {
+        "categories": "Protein",
+        "foodId": 1,
+        "itemIds": "4,5",
+        "items": "Chicken Breast,Boiled Egg",
+        "keywords": "Chicken, Egg",
+        "name": "Chicken Egg",
+        "nutrients": "niacin,protein,Vitamin B6,choline,Vitamin D",
+        "quantities": "3,4",
+        "totalCalories": 807.0
+    },
+    {
+        "categories": "Fruits",
+        "foodId": 2,
+        "itemIds": "10,11",
+        "items": "Apple,Banana",
+        "keywords": "apple, banana",
+        "name": "AppleBanana juice",
+        "nutrients": "fiber,vitamin C,potassium,vitamin B6",
+        "quantities": "4,3",
+        "totalCalories": 695.0
+    },
+    {
+        "categories": "Diary,Cerals,Grains",
+        "foodId": 3,
+        "itemIds": "13,3",
+        "items": "Milk (Whole),Whole Wheat Bread",
+        "keywords": "bread, breakfast, milk",
+        "name": "MilkBread",
+        "nutrients": "calcium,vitamin D,B Vitamins,fiber,iron",
+        "quantities": "3,4",
+        "totalCalories": 927.0
+    }
+]

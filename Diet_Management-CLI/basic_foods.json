@@ -1,0 +1,210 @@
+[
+    {
+        "calories": 111.0,
+        "categories": "Grains",
+        "foodId": 1,
+        "keywords": "rice, whole grain",
+        "name": "Brown Rice",
+        "nutrients": "carbohydrates, fiber, magnesium, selenium"
+    },
+    {
+        "calories": 150.0,
+        "categories": "Grains",
+        "foodId": 2,
+        "keywords": "oatmeal, rolled oats",
+        "name": "Oats",
+        "nutrients": "fiber, iron, magnesium, protein"
+    },
+    {
+        "calories": 120.0,
+        "categories": "Cerals, Grains",
+        "foodId": 3,
+        "keywords": "bred, whole wheaat",
+        "name": "Whole Wheat Bread",
+        "nutrients": "B Vitamins, fiber, iron"
+    },
+    {
+        "calories": 165.0,
+        "categories": "Protein",
+        "foodId": 4,
+        "keywords": "chicken, poultry",
+        "name": "Chicken Breast",
+        "nutrients": "niacin, protein, Vitamin B6"
+    },
+    {
+        "calories": 78.0,
+        "categories": "Protein",
+        "foodId": 5,
+        "keywords": "boiled egg, egg",
+        "name": "Boiled Egg",
+        "nutrients": "choline, protein, Vitamin D"
+    },
+    {
+        "calories": 94.0,
+        "categories": "plant-based, Protein",
+        "foodId": 6,
+        "keywords": "soy, tofu",
+        "name": "Tofu",
+        "nutrients": "calcium, iron, protein"
+    },
+    {
+        "calories": 55.0,
+        "categories": "Vegetables",
+        "foodId": 7,
+        "keywords": "broccoli, green vegetable",
+        "name": "Broccoli",
+        "nutrients": "fiber, vitamin C, vitamin K"
+    },
+    {
+        "calories": 41.0,
+        "categories": "Vegetables",
+        "foodId": 8,
+        "keywords": "carrot, root vegetable",
+        "name": "Carrot",
+        "nutrients": "beta-carotene, fiber, vitamin A"
+    },
+    {
+        "calories": 23.0,
+        "categories": "Vegetables",
+        "foodId": 9,
+        "keywords": "leafy green, spinach",
+        "name": "Spinach",
+        "nutrients": "calcium, iron, vitamin A"
+    },
+    {
+        "calories": 95.0,
+        "categories": "Fruits",
+        "foodId": 10,
+        "keywords": "apple, fruit",
+        "name": "Apple",
+        "nutrients": "fiber, vitamin C"
+    },
+    {
+        "calories": 105.0,
+        "categories": "Fruits",
+        "foodId": 11,
+        "keywords": "banana, fruit",
+        "name": "Banana",
+        "nutrients": "fiber, potassium, vitamin B6"
+    },
+    {
+        "calories": 62.0,
+        "categories": "Fruits",
+        "foodId": 12,
+        "keywords": "citrus, orange",
+        "name": "Orange",
+        "nutrients": "fiber, folate, vitamin C"
+    },
+    {
+        "calories": 149.0,
+        "categories": "Diary",
+        "foodId": 13,
+        "keywords": "diary, milk",
+        "name": "Milk (Whole)",
+        "nutrients": "calcium, vitamin D"
+    },
+    {
+        "calories": 100.0,
+        "categories": "Diary",
+        "foodId": 14,
+        "keywords": "greek yogurt, yogurt",
+        "name": "Yogurt",
+        "nutrients": "calcium, probiotics, protein"
+    },
+    {
+        "calories": 30.0,
+        "categories": "Diary Alternatives",
+        "foodId": 15,
+        "keywords": "almond milk, diary-free",
+        "name": "Almond Milk",
+        "nutrients": "calcium, vitamin E"
+    },
+    {
+        "calories": 164.0,
+        "categories": "Nuts and Seeds",
+        "foodId": 16,
+        "keywords": "almonds, nuts",
+        "name": "Almonds",
+        "nutrients": "healthy fats, maagnesium, vitamin E"
+    },
+    {
+        "calories": 190.0,
+        "categories": "Nuts and Seeds",
+        "foodId": 17,
+        "keywords": "peanut butter, spread",
+        "name": "Peanut Butter(Natural)",
+        "nutrients": "healthy fats, niacin, protein"
+    },
+    {
+        "calories": 119.0,
+        "categories": "Fats and Oils",
+        "foodId": 18,
+        "keywords": "cooking oil, olive oil",
+        "name": "Olive Oil",
+        "nutrients": "monosaturated fats, Vitamin E"
+    },
+    {
+        "calories": 102.0,
+        "categories": "Fats, Oils",
+        "foodId": 19,
+        "keywords": "butter, diary",
+        "name": "Butter(Salted)",
+        "nutrients": "fat, vitamin A"
+    },
+    {
+        "calories": 64.0,
+        "categories": "Sweetners",
+        "foodId": 20,
+        "keywords": "honey, sweetner",
+        "name": "Honey",
+        "nutrients": "antioxidants, sugars"
+    },
+    {
+        "calories": 170.0,
+        "categories": "Sweets",
+        "foodId": 21,
+        "keywords": "chocolate, cocoa",
+        "name": "Dark Chocolate",
+        "nutrients": "antioxidants, iron, magnesuim"
+    },
+    {
+        "calories": 20.0,
+        "categories": "Beverages",
+        "foodId": 22,
+        "keywords": "green tea, tea",
+        "name": "Green Tea",
+        "nutrients": "antioxidants, catechins"
+    },
+    {
+        "calories": 30.0,
+        "categories": "Beverages",
+        "foodId": 23,
+        "keywords": "black coffee, coffee",
+        "name": "Black coffee",
+        "nutrients": "caffine"
+    },
+    {
+        "calories": 208.0,
+        "categories": "Protein, Seafood",
+        "foodId": 24,
+        "keywords": "fish, salmon, seafood",
+        "name": "Salmon",
+        "nutrients": "B12, omega-3 fatty acids, protein"
+    },
+    {
+        "calories": 86.0,
+        "categories": "vegetables",
+        "foodId": 25,
+        "keywords": "root vegetable, sweet potato",
+        "name": "Sweet Potato",
+        "nutrients": "beta-carotene, fiber, potassium, vitamin A"
+    },
+    {
+        "calories": 54.0,
+        "categories": "USDA, Pre-Packaged Fruit & Vegetables",
+        "foodId": 26,
+        "keywords": "APPLE, Oneonta Trading Corporation",
+        "name": "APPLE",
+        "nutrients": "Protein: 0.410000 G, Total lipid (fat): 0.000000 G, Carbohydrate, by difference: 14.000000 G, Energy: 54.000000 KCAL, Total Sugars: 10.300000 G, Fiber, total dietary: 2.100000 G, Calcium, Ca: 8.000000 MG, Iron, Fe: 0.150000 MG, Potassium, K: 107.000000 MG, Sodium, Na: 0.000000 MG, Vitamin A, IU: 41.000000 IU, Vitamin C, total ascorbic acid: 2.000000 MG, Cholesterol: 0.000000 MG, Fatty acids, total trans: 0.000000 G, Fatty acids, total saturated: 0.000000 G"
+    }
+]
